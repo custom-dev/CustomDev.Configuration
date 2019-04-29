@@ -12,6 +12,8 @@
     <PackageTags>Configuration</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseFile>licence.txt</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/custom-dev/CustomDev.Configuration</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
